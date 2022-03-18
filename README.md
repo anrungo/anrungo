@@ -4,7 +4,7 @@
 
 * I am a R and Python enthusiast :toolbox: :sparkles:.
 
-* I am currently brushing up my skills and plan to learn Django .
+* I am currently brushing up my skills on python and plan to learn Django .
 
 <p>
     <a href="https://github.com/anrungo">
