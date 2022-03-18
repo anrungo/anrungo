@@ -22,7 +22,7 @@
   
   <!-- <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png"> -->
     
- 
+
 </p>
 
 <p>
@@ -80,7 +80,8 @@
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span><br>
-<img height=65px src="https://prod-discovery.edx-cdn.org/media/course/image/58977d3a-894b-45bb-9d5a-2dbbb5031163-7689343dc89d.small.jpeg">
+<img height=65px src="https://www.pragimtech.com/wp-content/uploads/2019/09/sql.jpg">
+    <!-- https://logodix.com/logo/644095.jpg-->
 </td>
 
 <td align="center" width="20%">
