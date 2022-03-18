@@ -6,7 +6,7 @@
 
 * I am currently brushing up my skills and plan to learn Django .
 
-<p align="center">
+<p>
     <a href="https://github.com/anrungo">
         <img src="https://img.shields.io/github/followers/anrungo?label=GitHub&logo=GitHub&style=for-the-badge&color=orange">
     </a>
@@ -22,6 +22,15 @@
  
 </p>
 
+<p>
+    <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="">
+
+
+
+</p>
 
 
 ## Tech Stack :computer:
@@ -86,6 +95,7 @@
 ![Antonio Rungos Github Stats](https://github-readme-stats.vercel.app/api?username=anrungo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anrungo)
 
 <!--
 **anrungo/anrungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
