@@ -19,6 +19,9 @@
     </a>
  
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+  
+  <!-- <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png"> -->
+    
  
 </p>
 
@@ -54,52 +57,52 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<span><b><center>R</center></b></span>
+<span><b><center>R Studio</center></b></span><br>
 <img height=60px src="https://www.rstudio.com/assets/img/logo.svg">
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span>
+<span><b><center>Python</center></b></span><br>
 <img height=60px src="https://www.python.org/static/img/python-logo.png">
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span>
+<span><b><center>Git</center></b></span><br>
 <img height=65px src="https://git-scm.com/images/logo@2x.png">
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Linux System</center></b></span>
+<span><b><center>Linux System</center></b></span><br>
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </td>    
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span>
+<span><b><center>SQL</center></b></span><br>
 <img height=65px src="https://prod-discovery.edx-cdn.org/media/course/image/58977d3a-894b-45bb-9d5a-2dbbb5031163-7689343dc89d.small.jpeg">
 </td>
 
 <td align="center" width="20%">
-<span><b><center>LaTeX</center></b></span>
+<span><b><center>LaTeX</center></b></span><br>
 <img height=65px src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png">
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span>
+<span><b><center>HTML</center></b></span><br>
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
 </td>   
 
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span>
+<span><b><center>CSS</center></b></span><br>
 <img height=65px src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
 </td>   
 
 <td align="center" width="20%">
-<span><b><center>Markdown</center></b></span>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png">
+<span><b><center>Markdown</center></b></span><br>
+<img height=65px src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg">
 </td>   
 </tr>
 </tbody>
