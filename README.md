@@ -6,6 +6,24 @@
 
 * I am currently brushing up my skills and plan to learn Django .
 
+<p align="center">
+    <a href="https://github.com/anrungo">
+        <img src="https://img.shields.io/github/followers/anrungo?label=GitHub&logo=GitHub&style=for-the-badge&color=orange">
+    </a>
+    <a href="https://twitter.com/aniquisse">
+        <img src="https://img.shields.io/twitter/follow/aniquisse?label=Twitter&logo=twitter&style=for-the-badge&color=success">
+    </a>
+ 
+   <a href="https://www.linkedin.com/in/antonio-rungo-ab419b17/">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+ 
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+ 
+</p>
+
+
+
 ## Tech Stack :computer:
 
 <br>
