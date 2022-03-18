@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Antonio Rungo](https://www.linkedin.com/in/antonio-rungo-ab419b17/) :blush:	 . Currently I am Biostatictician :satellite:
+* I am [Antonio Rungo](https://www.linkedin.com/in/antonio-rungo-ab419b17/) :blush:	. :satellite:
 
 * I am a R and Python enthusiast :toolbox: :sparkles:.
 
