@@ -95,7 +95,9 @@
 ![Antonio Rungos Github Stats](https://github-readme-stats.vercel.app/api?username=anrungo&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anrungo)
+<!--![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anrungo)-->
+
+![Rungo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anrungo&layout=compact)
 
 <!--
 **anrungo/anrungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
