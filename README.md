@@ -19,6 +19,8 @@
     </a>
  
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
+    
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
   <!-- <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png"> -->
     
