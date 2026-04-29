@@ -65,7 +65,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Observable</center></b></span><br>
-<img height=60px src="https://logokit.com/logo/domains/observablehq.com/default?response-content-disposition=inline%3B%20filename%3D%22observablehq.com%22%3B%20filename%2A%3DUTF-8%27%27observablehq.com&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=43f52174bc277c9a81cf4070ede2dc8f%2F20260429%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260429T182922Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=7098c915e8e0ebe8c203fedd44bb85f6033dd8c862eac6b5090adb86508a91fc">
+<img height=60px src="https://logokit.com/logo/domains/observablehq.com/symbol.svg?response-content-disposition=attachment%3B%20filename%3D%22observablehq.com_symbol.svg%22%3B%20filename%2A%3DUTF-8%27%27observablehq.com_symbol.svg&response-content-type=image%2Fsvg%2Bxml&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=43f52174bc277c9a81cf4070ede2dc8f%2F20260429%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260429T182924Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3431dec86c3f8394586f251ebe03fcc2558f4c05b9da64917699745b5f0d2cf4">
 </td>
 
 <td align="center" width="20%">
