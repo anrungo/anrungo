@@ -77,7 +77,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Quarto</center></b></span><br>
-<img height=65px src="https://quarto.org/">
+<img height=65px src="[https://quarto.org/](https://user-images.githubusercontent.com/1769619/195922332-4308bb3c-ccfd-47e6-b6a6-f48b94c22fcf.svg)">
 </td>    
 
 <td align="center" width="20%">
