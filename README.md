@@ -95,12 +95,12 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span><br>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
+<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQL4WTiJ7KCsTz5nrqqLoyc-YJj8CRx2_85g&s">
 </td>   
 
 <td align="center" width="20%">
 <span><b><center>CSS</center></b></span><br>
-<img height=65px src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg">
 </td>   
 
 <td align="center" width="20%">
