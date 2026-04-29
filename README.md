@@ -60,7 +60,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>R Studio</center></b></span><br>
-<img height=60px src="[https://www.rstudio.com/assets/img/logo.svg](https://commons.wikimedia.org/wiki/File:RStudio_logo_flat.svg)">
+<img height=60px src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rstudio.svg">
 </td>
 
 <td align="center" width="20%">
