@@ -76,8 +76,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Linux System</center></b></span><br>
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+<span><b><center>Quarto</center></b></span><br>
+<img height=65px src="https://quarto.org/">
 </td>    
 
 <td align="center" width="20%">
