@@ -88,7 +88,7 @@
 
 <td align="center" width="20%">
 <span><b><center>LaTeX</center></b></span><br>
-<img height=65px src="https://www.latex-project.org/">
+<img height=65px src="[https://www.latex-project.org/](https://www.latex-project.org/)">
 </td>
 </tr>
 
